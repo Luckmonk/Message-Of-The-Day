@@ -14,5 +14,7 @@ Welcome to another test!
 -changed MOTD text color to white
 -changed motd board middle color to purple
 -added MOTD board that updates on restart of game
+-made MOTD text smaller
+-moved MOTD text back a bit
 
 Thanks for testing and have fun!
