@@ -7,8 +7,6 @@ Welcome to another test!
 -added offline cosmetics test
 -added more powerful light in the ban room
 -fixed bottom row lowercase letters being capital
--removed placeholder model
--added a new monkey model
 -removed color changing test
 -fixed servers not working (i think)
 -changed MOTD text color to white
