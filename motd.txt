@@ -16,5 +16,7 @@ Welcome to another test!
 -added MOTD board that updates on restart of game
 -made MOTD text smaller
 -moved MOTD text back a bit
+-changed leaderboard chalk color to purple
+-changed computer screen to purple
 
 Thanks for testing and have fun!
