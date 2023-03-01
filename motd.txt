@@ -19,5 +19,6 @@ Welcome to another test!
 -changed leaderboard chalk color to purple
 -changed computer screen to purple
 -changed leaderboard text to white
+-added lights to shop tunnel
 
 Thanks for testing and have fun!
