@@ -1,1 +1,14 @@
-Welcome to the 6th test! (i think). In this version I have added a Message Of The Day board that can update on restart, not updating the game. That way if I am unable to update, I can use this. I have also added a new model and offline cosmetics. Game may be coming to sidequest soon, or maybe app-lab alpha, beta, and maybe release candidate. Have fun, Tester!
+Welcome to another test!
+-added RGB and button color changing
+-added shop with no cosmetics yet
+-added snap turning
+-added welcome screen on computer
+-added offline cosmetics test
+-added more powerful light in the ban room
+-fixed bottom row lowercase letters being capital
+-removed placeholder model
+-added a new monkey model
+-removed color changing test
+-fixed servers not working (i think)
+
+Thanks for testing and have fun!
