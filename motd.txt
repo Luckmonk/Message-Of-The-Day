@@ -1,1 +1,1 @@
-This is a test, hello!
+Welcome to the 6th test! (i think). In this version I have added a Message Of The Day board that can update on restart, not updating the game. That way if I am unable to update, I can use this. I have also added a new model and offline cosmetics. Game may be coming to sidequest soon, or maybe app-lab alpha, beta, and maybe release candidate. Have fun, Tester!
