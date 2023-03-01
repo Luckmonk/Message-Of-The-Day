@@ -1,4 +1,5 @@
 Welcome to another test!
+
 -added RGB and button color changing
 -added shop with no cosmetics yet
 -added snap turning
@@ -10,5 +11,8 @@ Welcome to another test!
 -added a new monkey model
 -removed color changing test
 -fixed servers not working (i think)
+-changed MOTD text color to white
+-changed motd board middle color to purple
+-added MOTD board that updates on restart of game
 
 Thanks for testing and have fun!
