@@ -18,5 +18,6 @@ Welcome to another test!
 -moved MOTD text back a bit
 -changed leaderboard chalk color to purple
 -changed computer screen to purple
+-changed leaderboard text to white
 
 Thanks for testing and have fun!
