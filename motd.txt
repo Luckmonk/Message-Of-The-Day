@@ -4,7 +4,7 @@ Welcome to another test!
 -added shop with no cosmetics yet
 -added snap turning
 -added welcome screen on computer
--added offline cosmetics test
+-removed offline cosmetics test
 -added more powerful light in the ban room
 -fixed bottom row lowercase letters being capital
 -removed color changing test
