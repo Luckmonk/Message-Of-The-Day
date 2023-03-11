@@ -1,5 +1,3 @@
-New Alpha Build Out! Hi dash :D
+Hey everyone! New alpha build out! There is now trees and a working bonk hammer (i think the bonk hammer works)
 
-I removed the extra trampolines and platfroms in the sky, added a wardrobe test and a pool vent for mods.
-
-Thanks for testing and have fun!
+Thanks for testing and please provide feedback!
