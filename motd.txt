@@ -12,5 +12,6 @@ Hello! In this test I have added:
 -version checker
 -offline checker
 -leaderboard back
+-removed SSC
 
 ENJOY!!!!
