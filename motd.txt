@@ -1,1 +1,16 @@
-Cloud is a bad boy frrrrrr
+Hello! In this test I have added:
+
+-New vents and mod room
+-fixed stump
+-Fixed computer (maybe)
+-removed vent animations
+-removed vent teleportation device
+-new skybox
+-simulation is back!
+-hit sounds in places they were not before
+-new mod cosmetics
+-version checker
+-offline checker
+-leaderboard back
+
+ENJOY!!!!
