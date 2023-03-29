@@ -1,10 +1,10 @@
-Hey! Just a little bug fix (i guess)
+Looks like theres a new build!
 
--opened the vent for testing (i couldnt find my playfab bruh)
--added leaderboard (actually this time) 
+-added mod jetpack
+-fixed grapple gun (maybe?)
+-added mechanic buttons next to grapple gun and jetpack
+-removed grapple gun rope
 
-there is a leaderboard in the mod room, in the stump, and simulation
+The way that mechanic buttons work is by instead of the mechanic being on the cosmetic, it is now a seperate thing that you have to enable as well.
 
-all moderator cosmetics are public for now because i dont feel like setting up allat
-
-Enjoy, and give me feedback and suggestions pls
+Enjoy and give feedback!
