@@ -1,17 +1,10 @@
-Hello! In this test I have added:
+Hey! Just a little bug fix (i guess)
 
--New vents and mod room
--fixed stump
--Fixed computer (maybe)
--removed vent animations
--removed vent teleportation device
--new skybox
--simulation is back!
--hit sounds in places they were not before
--new mod cosmetics
--version checker
--offline checker
--leaderboard back
--removed SSC
+-opened the vent for testing (i couldnt find my playfab bruh)
+-added leaderboard (actually this time) 
 
-ENJOY!!!!
+there is a leaderboard in the mod room, in the stump, and simulation
+
+all moderator cosmetics are public for now because i dont feel like setting up allat
+
+Enjoy, and give me feedback and suggestions pls
