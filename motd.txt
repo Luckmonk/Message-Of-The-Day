@@ -1,10 +1,3 @@
-Looks like theres a new build!
+JRVR is cool i guess
 
--added mod jetpack
--fixed grapple gun (maybe?)
--added mechanic buttons next to grapple gun and jetpack
--removed grapple gun rope
-
-The way that mechanic buttons work is by instead of the mechanic being on the cosmetic, it is now a seperate thing that you have to enable as well.
-
-Enjoy and give feedback!
+discord.gg.oldcapuchin
